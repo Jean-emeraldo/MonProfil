@@ -37,7 +37,7 @@ export default function Footer() {
     },
     { 
       icon: 'ri-mail-line', 
-      href: 'mailto:jean.emeraldo@example.com', 
+      href: 'mailto:jemeraldorasolofonirina@gmail.com', 
       label: 'Email',
       color: 'hover:bg-red-600'
     }
