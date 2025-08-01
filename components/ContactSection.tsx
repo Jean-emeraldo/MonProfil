@@ -315,7 +315,7 @@ export default function ContactSection() {
                       onChange={handleChange}
                       required
                       className="w-full px-4 py-3 bg-slate-700/50 border border-slate-600 rounded-xl text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-300 text-sm backdrop-blur-sm hover:border-slate-500"
-                      placeholder="jean@example.com"
+                      placeholder="jemeraldorasolofonirina@gmail.com"
                     />
                   </motion.div>
                 </div>
